@@ -1,0 +1,14 @@
+{
+  "name": "ngx-typed-form-class",
+  "version": "0.0.2",
+  "description": "This is a small lib (more like an starter ideia) for those who (like me) are in the waits for strongly typed Reactive Forms.",
+  "author": "Figueiredo (yerpirate or lsfgrd on Github)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsfgrd/ngx-typed-form-class"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
