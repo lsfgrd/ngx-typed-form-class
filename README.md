@@ -8,6 +8,9 @@ I hope this can be useful for someone.
 
 This was not throughly tested. I only used it once at work in the feature I'm currently working on. It may or may not suck very badly in some specific scenarios. If you try it, please leave some feedback in the issues menu.
 
+## Installing
+```npm install ngx-typed-form-class```
+
 ## Getting Started
 The key of this library is that **form groups === form classes**. You need to declare a class for every form group you have, and initialize every single one of the properties in the constructor. 
 
